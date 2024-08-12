@@ -9,3 +9,5 @@ const selector = (tag) => {
     // }
     return document.querySelector(tag);
 };
+
+const aa = 3
